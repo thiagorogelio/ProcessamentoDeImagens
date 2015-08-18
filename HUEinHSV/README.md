@@ -8,10 +8,11 @@
 
 Esse sistema foi inventado no ano de 1974, por Alvy Ray Smith. É caracterizada por ser uma transformação não-linear do sistema de cores RGB. Outros sistemas de cores relacionados incluem o HSL (L de luminosity ou luminosidade) e o HSI (I de intensity ou intensidade). [Wikipedia]
 
-Este trabalho consiste em gerar a roda de cores em sistema de representação HSV.
+Este trabalho consiste em gerar a roda de cores em sistema de representação HSV:
 
-![alt tag](https://github.com/thiagorogelio/ProcessamentoDeImagens/tree/master/HUEinHSV/ColorWheel.jpg)
+![alt tag](https://raw.githubusercontent.com/thiagorogelio/ProcessamentoDeImagens/master/HUEinHSV/ColorWheel.jpg)
 
 Este trabalho foi desenvolvido utilizando a linguagem [Python 2.7.9](https://www.python.org/) e as bibliotecas [Numpy](http://www.numpy.org/) e [OpenCV](http://opencv.org/)
 
-
+O resultado obtido é este:
+![alt tag](https://raw.githubusercontent.com/thiagorogelio/ProcessamentoDeImagens/master/HUEinHSV/result.jpg)
