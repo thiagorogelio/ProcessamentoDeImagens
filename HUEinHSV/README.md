@@ -14,7 +14,7 @@ Este trabalho consiste em gerar a roda de cores em sistema de representação HS
 
 ![alt tag](https://raw.githubusercontent.com/thiagorogelio/ProcessamentoDeImagens/master/HUEinHSV/img/ColorWheel.jpg)
 
-Este trabalho foi desenvolvido utilizando a linguagem [Python 2.7.9](https://www.python.org/) e as bibliotecas [Numpy](http://www.numpy.org/) e [OpenCV](http://opencv.org/)
+Este trabalho foi desenvolvido utilizando a linguagem [Python 2.7.9](https://www.python.org/), as bibliotecas [Numpy](http://www.numpy.org/) e [OpenCV](http://opencv.org/)
 
 O resultado obtido é este:
 
