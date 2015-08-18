@@ -1,13 +1,11 @@
 # Processamen to De Imagens
 
-Esta biblioteca é composta por trabalhos da disciplina de PROCESSAMENTO DIGITAL DE SINAIS E IMAGENS 
+Esta biblioteca é composta por trabalhos da disciplina de PROCESSAMENTO DIGITAL DE SINAIS E IMAGENS (Universidade Estadual de Maringá)
 
-* **(Universidade Estadual de Maringá)
-
-* **Desenvolvedores:
+**Desenvolvedores**:
 * Thiago Rogelio Ramos
 * Rodrigo Giraldi Silva
 
-* Conteúdos:
+**Conteúdos**:
 
 * [HUE em HSV](https://github.com/thiagorogelio/ProcessamentoDeImagens/tree/master/HUEinHSV)
