@@ -10,7 +10,7 @@ Esse sistema foi inventado no ano de 1974, por Alvy Ray Smith. É caracterizada 
 
 Este trabalho consiste em gerar a roda de cores em sistema de representação HSV.
 
-![alt tag](https://github.com/thiagorogelio/ProcessamentoDeImagens/HUEinHSV/ColorWheel.jpg)
+![alt tag](https://github.com/thiagorogelio/ProcessamentoDeImagens/tree/master/HUEinHSV/ColorWheel.jpg)
 
 Este trabalho foi desenvolvido utilizando a linguagem [Python 2.7.9](https://www.python.org/) e as bibliotecas [Numpy](http://www.numpy.org/) e [OpenCV](http://opencv.org/)
 

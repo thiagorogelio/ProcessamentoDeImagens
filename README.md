@@ -8,4 +8,4 @@ Rodrigo Giraldi Silva
 
 Conteúdos:
 
-* [HUE em HSV](https://github.com/thiagorogelio/ProcessamentoDeImagens/HUEinHSV)
+* [HUE em HSV](https://github.com/thiagorogelio/ProcessamentoDeImagens/tree/master/HUEinHSV)
