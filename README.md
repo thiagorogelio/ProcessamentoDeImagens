@@ -1,4 +1,4 @@
-# Processamen to De Imagens
+# Processamento De Imagens
 
 Esta biblioteca é composta por trabalhos da disciplina de PROCESSAMENTO DIGITAL DE SINAIS E IMAGENS (Universidade Estadual de Maringá)
 
