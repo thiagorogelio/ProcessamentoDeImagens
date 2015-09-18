@@ -11,3 +11,5 @@ Esta biblioteca é composta por trabalhos da disciplina de PROCESSAMENTO DIGITAL
 * [HUE em HSV](https://github.com/thiagorogelio/ProcessamentoDeImagens/tree/master/HUEinHSV)
 
 * [Rotulação em imagens Binárias](https://github.com/rodrigogiraldi/areaObjetos)
+
+* [Mosaico](https://github.com/rodrigogiraldi/mosaico)
